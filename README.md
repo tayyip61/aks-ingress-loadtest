@@ -6,36 +6,36 @@ First we need to define load test scenarios on Azure DevOps.</br>
 Our Load Test Scenario is designed as instantly 1000 users in 2 minutes for all ingress types.</br></br>
 
 This is sample scenario for nginx-ingress. 
-![Load_Test_Scenario_Sample](https://github.com/tayyip61/kubernetes/blob/master/loadtest-ss/nginx-ingress-loadtest.png)
+![Load_Test_Scenario_Sample](https://github.com/tayyip61/aks-ingress-loadtest/blob/master/nginx-ingress-loadtest.png)
 
 After that we should add 2 more scenarios for traefik-ingress and contour-ingress.</br>
 Then, let's run test and examine results.
 
 <h4>Nginx Ingress Controller Load Test Summary</h4>
 
-![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/kubernetes/blob/master/loadtest-ss/nginx-ingress-loadtest-1.PNG)
+![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/aks-ingress-loadtest/blob/master/nginx-ingress-loadtest-1.PNG)
 
 <h4>Nginx Ingress Controller Load Test Chart Details</h4>
 
-![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/kubernetes/blob/master/loadtest-ss/nginx-ingress-loadtest-2.PNG)
+![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/aks-ingress-loadtest/blob/master/nginx-ingress-loadtest-2.PNG)
 
 
 <h4>Traefik Ingress Controller Load Test Summary</h4>
 
-![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/kubernetes/blob/master/loadtest-ss/traefik-ingress-loadtest-1.PNG)
+![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/aks-ingress-loadtest/blob/master/traefik-ingress-loadtest-1.PNG)
 
 <h4>Traefik Ingress Controller Load Test Chart Details</h4>
 
-![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/kubernetes/blob/master/loadtest-ss/traefik-ingress-loadtest-2.PNG)
+![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/aks-ingress-loadtest/blob/master/traefik-ingress-loadtest-2.PNG)
 
 
 <h4>Contour Ingress Controller Load Test Summary</h4>
 
-![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/kubernetes/blob/master/loadtest-ss/contour-ingress-loadtest-1.PNG)
+![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/aks-ingress-loadtest/blob/master/contour-ingress-loadtest-1.PNG)
 
 <h4>Contour Ingress Controller Load Test Chart Details</h4>
 
-![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/kubernetes/blob/master/loadtest-ss/contour-ingress-loadtest-2.PNG)
+![nginx_Ingress_LoadTest_Summary](https://github.com/tayyip61/aks-ingress-loadtest/blob/master/contour-ingress-loadtest-2.PNG)
 
 
 <b>Summary</b></br>
